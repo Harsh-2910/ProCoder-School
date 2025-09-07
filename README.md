@@ -24,7 +24,7 @@ A comprehensive School Management System built with Spring Boot that provides a 
 - **Database**: PostgreSQL
 - **Security**: Spring Security
 - **Build Tool**: Maven
-- **Other Frameworks**: Thymeleaf, Spring JPA
+- **Other libraries & Frameworks**: Thymeleaf, Spring Data JPA
 
 ## 🔐 Security
 - **ADMIN**: Full system acess
